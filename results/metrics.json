@@ -1,0 +1,6 @@
+{
+    "nombre_images": 20,
+    "predictions_correctes": 18,
+    "taux_reussite_pct": 90.0,
+    "latence_moyenne_ms": 47.564
+}

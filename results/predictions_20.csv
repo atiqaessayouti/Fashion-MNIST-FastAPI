@@ -1,0 +1,21 @@
+﻿image;classe_reelle;classe_predite;confiance;latence_ms;resultat
+0;Ankle boot;Ankle boot;0.9651696681976318;822.494;Correct
+1;Pullover;Pullover;0.9904109239578247;5.588;Correct
+2;Trouser;Trouser;0.9999949932098389;5.103;Correct
+3;Trouser;Trouser;0.99985671043396;4.822;Correct
+4;Shirt;Shirt;0.6752538084983826;4.462;Correct
+5;Trouser;Trouser;0.9994551539421082;5.762;Correct
+6;Coat;Coat;0.9945579767227173;5.294;Correct
+7;Shirt;Shirt;0.9882292747497559;7.869;Correct
+8;Sandal;Sandal;0.9999970197677612;7.659;Correct
+9;Sneaker;Sneaker;0.9999984502792358;6.796;Correct
+10;Coat;Coat;0.982043981552124;8.258;Correct
+11;Sandal;Sandal;0.9998078942298889;5.824;Correct
+12;Sneaker;Sandal;0.9347268342971802;12.081;Incorrect
+13;Dress;Dress;0.9998944997787476;10.391;Correct
+14;Coat;Coat;0.8230250477790833;8.809;Correct
+15;Trouser;Trouser;0.9992409944534302;9.012;Correct
+16;Pullover;Pullover;0.9819099307060242;4.71;Correct
+17;Coat;Pullover;0.6880495548248291;5.629;Incorrect
+18;Bag;Bag;0.9999839067459106;4.314;Correct
+19;T-shirt/top;T-shirt/top;0.9857839345932007;6.394;Correct
